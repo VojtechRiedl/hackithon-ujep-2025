@@ -1,0 +1,867 @@
+[
+  {
+    "idCompany": "Company1",
+    "clients": [
+      {
+        "idClient": "Client1",
+        "firstname": "Patient1",
+        "lastname": "Surname1",
+        "reports": [
+          {
+            "idMedicalReport": "Report1",
+            "datetime": "2027-07-05 13:04",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>zhotovení B W OPG<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>PA nález u zubu 13, doporučuji extrakci. Parochobot D hloubky více jak 8,5mm!! Při sondáži silně krvácí. Pacient před absolovováním TEP koleního kloubu! <\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Příště: extrakce zubu 13, event. dle časových možností před chirurg. zákrokem oš. kar. léze na zubu 46M. <\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report2",
+            "datetime": "2027-07-05 13:04",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>zhotovení B W OPG<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>PA nález u zubu 13, doporučuji extrakci. Parochobot D hloubky více jak 8,5mm!! Při sondáži silně krvácí. Pacient před absolovováním TEP koleního kloubu! <\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Příště: extrakce zubu 13, event. dle časových možností před chirurg. zákrokem oš. kar. léze na zubu 46M. <\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report3",
+            "datetime": "2027-06-22 10:54",
+            "text": "<p>13 - periodontitis acuta/periodontální abscess - pacient přichází s otokem tváře vpravo - toho času nebolí - při inspekci zjištuji masivní hnisavou exudaci z parodont. chobotu dístálně u zubu 13 - zhotovení IO RVG: projasnění v oblasti D části kořene s úbytkem alv. kosti do více jak 2/3 délky kořene. <\/p>\n<p>v LA 1:200 000 Septanestu, 1,7ml čšB33361AF, odbroušení uvolněného adhez. můstku z pilíře zubu 15, masivní výplach 10ml 3% H2O2, proviz. výplně na zuby 13 a 15. Zub 13 viklavost I.-II.st, 15 I.st. <\/p>\n<p>ATB léčba a to Amoksiklav 1G á 12h, doporučeny studené obklady přes utěrku v 30min intervalech + probiotika. <\/p>\n<p> <\/p>\n<p>Plán oš.: zvážit extrakci zubu 13, možná i 15 dle stavu. Pacient má termín na chirurg. oš. kolenního kloubu 6/2025. <\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report4",
+            "datetime": "2027-06-22 10:54",
+            "text": "<p>13 - periodontitis acuta/periodontální abscess - pacient přichází s otokem tváře vpravo - toho času nebolí - při inspekci zjištuji masivní hnisavou exudaci z parodont. chobotu dístálně u zubu 13 - zhotovení IO RVG: projasnění v oblasti D části kořene s úbytkem alv. kosti do více jak 2/3 délky kořene. <\/p>\n<p>v LA 1:200 000 Septanestu, 1,7ml čšB33361AF, odbroušení uvolněného adhez. můstku z pilíře zubu 15, masivní výplach 10ml 3% H2O2, proviz. výplně na zuby 13 a 15. Zub 13 viklavost I.-II.st, 15 I.st. <\/p>\n<p>ATB léčba a to Amoksiklav 1G á 12h, doporučeny studené obklady přes utěrku v 30min intervalech + probiotika. <\/p>\n<p> <\/p>\n<p>Plán oš.: zvážit extrakci zubu 13, možná i 15 dle stavu. Pacient má termín na chirurg. oš. kolenního kloubu 6/2025. <\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report5",
+            "datetime": "2027-06-22 10:54",
+            "text": "<p>13 - periodontitis acuta/periodontální abscess - pacient přichází s otokem tváře vpravo - toho času nebolí - při inspekci zjištuji masivní hnisavou exudaci z parodont. chobotu dístálně u zubu 13 - zhotovení IO RVG: projasnění v oblasti D části kořene s úbytkem alv. kosti do více jak 2/3 délky kořene. <\/p>\n<p>v LA 1:200 000 Septanestu, 1,7ml čšB33361AF, odbroušení uvolněného adhez. můstku z pilíře zubu 15, masivní výplach 10ml 3% H2O2, proviz. výplně na zuby 13 a 15. Zub 13 viklavost I.-II.st, 15 I.st. <\/p>\n<p>ATB léčba a to Amoksiklav 1G á 12h, doporučeny studené obklady přes utěrku v 30min intervalech + probiotika. <\/p>\n<p> <\/p>\n<p>Plán oš.: zvážit extrakci zubu 13, možná i 15 dle stavu. Pacient má termín na chirurg. oš. kolenního kloubu 6/2025. <\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client2",
+        "firstname": "Patient2",
+        "lastname": "Surname2",
+        "reports": [
+          {
+            "idMedicalReport": "Report6",
+            "datetime": "2027-07-06 12:55",
+            "text": "<p>Preventivní prohlídka: toho času bez kariézních lézí či jiných patologií<\/p>\n<p> <\/p>\n<p>zhotovení a popis OPG:<span style=&#034;font-weight: 500;&#034;>17V, 16V, 15V, 14V, 11V, 21V, 24V, 25V, 26V, 27V, 28 není, 38 V, 37V, 36 car. sec. M a D + výplň, 35 EOZ + V, 34V, 31V, 41V, 46V, 47není, 48V. Stav alv. kosti odpovídá věku pacienta.<\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report7",
+            "datetime": "2027-07-06 12:55",
+            "text": "<p>Preventivní prohlídka: toho času bez kariézních lézí či jiných patologií<\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report8",
+            "datetime": "2027-07-06 12:22",
+            "text": "<p>DH- recall <\/p>\n<p>PI= 30% hlavne levá strana <\/p>\n<p>BOP=30%<br />CPITN=323/323<br />Paro status:<\/p>\n<p>18() 17() 16() 15(5) 14(4) 13() 12() 11()                   21() 22() 23() 24() 25() 26(5) 27(5) 28()<\/p>\n<p> <\/p>\n<p>48() 47() 46(5) 45() 44() 43() 42() 41()                   31() 32() 33() 34(5) 35(5) 36() 37() 38()<\/p>\n<p>OZK, AF plus, FLoridace <br /><br /><\/p>\n<p>Reinstruktáž:<\/p>\n<p> <\/p>\n<p>TH:recall za pul roku <\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report9",
+            "datetime": "2027-06-22 08:02",
+            "text": "<p> {{TOOTH_LOCALIZATIONS}} - car. sec. - v LA Septanestu 1: 00 000, 1,7ml, č.š. , adaptace Kofferdamu, odstr. kar. hmot pod kontrolou Car. detektoru, materiál,  výplň.  Zábrus, vyartik. výplně, zaleštění. Výplň K2.<\/p>\n<p> <\/p>",
+            "rn": 5,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report10",
+            "datetime": "2027-06-22 08:02",
+            "text": "<p>16 (V) - odlomená V stěna zubu car. sec. - v LA Septanestu 1: 200 000, 1,7ml, č.š.B33361AF, odstr. kar. hmot pod kontrolou Car. detektoru, matrice+klínek, podložkový materiál baseliner Ionosite, dostavba stěny Admira fusion flow A3,5, výplň Admira fusion OA3.  Zábrus, vyartik. výplně, zaleštění. Výplň K2.<\/p>\n<p> <\/p>",
+            "rn": 4,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client3",
+        "firstname": "Patient3",
+        "lastname": "Surname3",
+        "reports": [
+          {
+            "idMedicalReport": "Report11",
+            "datetime": "2027-07-07 08:18",
+            "text": "<p>vykázání registrace<\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report12",
+            "datetime": "2027-06-23 09:40",
+            "text": "<p>14 (D) - car. sec. + vytvoření bodu kontaktu - v LA Septanestu 1: 200 000, 1,7ml, č.š.B33361AF, adaptace Kofferdamu, odstr. staré nevyhovující AMG výplně a kar. hmot pod kontrolou Car. detektoru, matrice+klínek, podložkový materiál Calcimol LC, dostavba stěny Admira fusion flow A3, výplň Admira fusion A3.  Zábrus, vyartik. výplně, zaleštění. Výplň K2.<\/p>\n<p> <\/p>\n<p>Příště: pacientka udává občasné bolesti in locco 26/27? upřesní při další návštěvě<\/p>\n<p> <\/p>",
+            "rn": 5,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report13",
+            "datetime": "2027-06-23 09:40",
+            "text": "<p>14 (D) - car. sec. + vytvoření bodu kontaktu - v LA Septanestu 1: 200 000, 1,7ml, č.š.B33361AF, adaptace Kofferdamu, odstr. staré nevyhovující AMG výplně a kar. hmot pod kontrolou Car. detektoru, matrice+klínek, podložkový materiál Calcimol LC, dostavba stěny Admira fusion flow A3, výplň Admira fusion A3.  Zábrus, vyartik. výplně, zaleštění. Výplň K2.<\/p>\n<p> <\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report14",
+            "datetime": "2027-06-23 09:40",
+            "text": "<p> {{TOOTH_LOCALIZATIONS}} - car. sec. - v LA Septanestu 1: 00 000, 1,7ml, č.š. , adaptace Kofferdamu, odstr. kar. hmot pod kontrolou Car. detektoru, materiál,  výplň.  Zábrus, vyartik. výplně, zaleštění. Výplň K2.<\/p>\n<p> <\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report15",
+            "datetime": "2027-06-23 09:40",
+            "text": "<p>14 (D) - car. sec. - v LA Septanestu 1: 200 000, 1,7ml, č.š.B33361AF, adaptace Kofferdamu, odstr. staré nevyhovující AMG výplně a kar. hmot pod kontrolou Car. detektoru, matrice+klínek, podložkový materiál Calcimol LC, dostavba stěny Admira fusion flow A3, výplň Admira fusion A3.  Zábrus, vyartik. výplně, zaleštění. Výplň K2.<\/p>\n<p> <\/p>",
+            "rn": 2,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client4",
+        "firstname": "Patient4",
+        "lastname": "Surname4",
+        "reports": [
+          {
+            "idMedicalReport": "Report16",
+            "datetime": "2027-06-14 08:33",
+            "text": "<p>Preventivní prohlídka: 36D-vytvoření bodu kontaktu, 46O-pacient objednán na sanaci <\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report17",
+            "datetime": "2027-06-14 08:33",
+            "text": "<p>Preventivní prohlídka: toho času bez kariézních lézí či jiných patologií<\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report18",
+            "datetime": "2027-06-14 07:56",
+            "text": "<p>DH- recall <\/p>\n<p>PI= 0%<\/p>\n<p>BOP=8% mk 0,7/, 0,3/0,45 tepe <br />CPITN=323/323<br />Paro status:<\/p>\n<p>18(5) 17() 16() 15() 14() 13() 12() 11()                   21() 22() 23() 24() 25() 26() 27(5) 28()<\/p>\n<p> <\/p>\n<p>48(5) 47() 46() 45() 44() 43() 42() 41()                   31() 32() 33() 34() 35() 36() 37() 38(5)<\/p>\n<p>recesy od 3-5mm všude<\/p>\n<p>42-5mm,43-4mm - upozotnen na techniku čisteni používá oral B<\/p>\n<p>OZK AF plus, Floridace Biosmalto<br /><br /><\/p>\n<p>Reinstruktáž:<\/p>\n<p> <\/p>\n<p>TH:recall za pul roku<\/p>",
+            "rn": 5,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report19",
+            "datetime": "2027-06-14 07:56",
+            "text": "<p>DH- recall <\/p>\n<p>PI= <\/p>\n<p>BOP=<br />CPITN=<br />Paro status:<\/p>\n<p>18() 17() 16() 15() 14() 13() 12() 11()                   21() 22() 23() 24() 25() 26() 27() 28()<\/p>\n<p> <\/p>\n<p>48() 47() 46() 45() 44() 43() 42() 41()                   31() 32() 33() 34() 35() 36() 37() 38()<\/p>\n<p>OZK, Polishing<br /><br /><\/p>\n<p>Reinstruktáž:<\/p>\n<p> <\/p>\n<p>TH:<\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report20",
+            "datetime": "2027-06-14 07:56",
+            "text": "<p>DH- recall <\/p>\n<p>PI= 0%<\/p>\n<p>BOP=8% mk 0,7/, 0,3/0,45 tepe <br />CPITN=323/323<br />Paro status:<\/p>\n<p>18(5) 17() 16() 15() 14() 13() 12() 11()                   21() 22() 23() 24() 25() 26() 27(5) 28()<\/p>\n<p> <\/p>\n<p>48(5) 47() 46() 45() 44() 43() 42() 41()                   31() 32() 33() 34() 35() 36() 37() 38(5)<\/p>\n<p>recesy od 3-5mm všude <\/p>\n<p>42-5mm,43-4mm - upozotnen na techniku čisteni používá oral B<\/p>\n<p>OZK AF plus, Floridace Biosmalto<br /><br /><\/p>\n<p>Reinstruktáž:<\/p>\n<p> <\/p>\n<p>TH:recall za pul roku <\/p>",
+            "rn": 3,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client5",
+        "firstname": "Patient5",
+        "lastname": "Surname5",
+        "reports": [
+          {
+            "idMedicalReport": "Report21",
+            "datetime": "2027-06-21 10:17",
+            "text": "<p>Vstupní dentální hygiena - GBT<br /><br />PI: 50%<br />BOP: 100% - gingivitis acuta - nepoužívá mzk<br />CPITN: příště přeměřit<\/p>\n<p>nánosy ZK - místy i SUB<\/p>\n<p><br />Paro status:<\/p>\n<p>18() 17() 16() 15() 14() 13() 12() 11(4,5)                   21() 22() 23() 24() 25() 26() 27() 28()<\/p>\n<p> <\/p>\n<p>48() 47() 46() 45() 44() 43() 42() 41()                   31() 32() 33() 34() 35() 36() 37() 38()<\/p>\n<p>OZK, AF master old<br /><br />Instruktáž: MK 0,6 + 0,7 + 1,1!!<br />kartáček vyhovující bass technika<br /><br />Th. ko dh za 3m - dočištění + ko MZK<\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report22",
+            "datetime": "2027-06-21 10:17",
+            "text": "<p>Vstupní dentální hygiena - GBT<br /><br />PI: <br />BOP: <br />CPITN: <\/p>\n<p><br />Paro status:<\/p>\n<p>18() 17() 16() 15() 14() 13() 12() 11()                   21() 22() 23() 24() 25() 26() 27() 28()<\/p>\n<p> <\/p>\n<p>48() 47() 46() 45() 44() 43() 42() 41()                   31() 32() 33() 34() 35() 36() 37() 38()<\/p>\n<p>OZK, AF master old<br /><br />Instruktáž: MK <br />kartáček vyhovující <br /><br />Th. ko dh za<\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report23",
+            "datetime": "2027-06-10 12:53",
+            "text": "<p>Preventivní prohlídka: dle ZK<\/p>\n<p> <\/p>\n<p>zhotovení a popis OPG:<\/p>\n<p style=&#034;font-weight: 500;&#034;> <\/p>\n<p style=&#034;font-weight: 500;&#034;> 18 není, 17V, 16V, 15V, 14V, 12V, 11 implantát + korunka, 21V, 22 EOZ + koř. nástavba + korunka, <strong><span style=&#034;color: #ff0000;&#034;>23 car. profunda + uvolněná výplň<\/span><\/strong>, 24 EOZ + korunka, 25V, 26 není, 27V, <span style=&#034;color: #ff0000;&#034;><strong>38 car. profunda - ad ex!!<\/strong><\/span> 37V, 36 není, 35 dtto, 44V, 45V, 46 není, <span style=&#034;color: #ff0000;&#034;><strong style=&#034;font-weight: bold;&#034;>47 car. sec. D, 48 car. profunda - zub ad ex!!, <\/strong><span style=&#034;color: #000000;&#034;>Stav alv. kosti odpovídá věku pacienta.<\/span><\/span><\/p>\n<p style=&#034;font-weight: 500;&#034;> <\/p>\n<p> <\/p>\n<p>Pacient se přes 1,5 roku nedostavil k řešení zubu 47 (endo. oš.). Dnes zhotovení OPG pro zjištění stavu chrupu a zejména zubu 47. <\/p>\n<p> <\/p>\n<p><span style=&#034;color: #ff0000;&#034;><strong>Velká nánosy ZK! DF czela zdlahovaná! <\/strong><\/span><\/p>\n<p> <\/p>\n<p>Plán oš postupně:Návštěva DH, extrakce 38 a 48, foto 23 a následně vyřešit 47-endo popřípadě ex(záleží na stavu).<\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report24",
+            "datetime": "2027-06-10 12:53",
+            "text": "<p>Preventivní prohlídka: dle ZK<\/p>\n<p> <\/p>\n<p>Pacient se přes 1,5 roku nedostavil k řešení zubu 47 (endo. oš.). Dnes zhotovení OPG pro zjištění stavu chrupu a zejména zubu 47. <\/p>\n<p> <\/p>\n<p><span style=&#034;color: #ff0000;&#034;><strong>Velká nánosy ZK! DF czela zdlahovaná! <\/strong><\/span><\/p>\n<p> <\/p>\n<p>Plán oš postupně:Návštěva DH, extrakce 38 a 48, foto 23 a následně vyřešit 47-endo popřípadě ex(záleží na stavu).<\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report25",
+            "datetime": "2027-06-10 12:53",
+            "text": "<p>Preventivní prohlídka: toho času bez kariézních lézí či jiných patologií<\/p>\n<p> <\/p>\n<p>Pacient se přes 1,5 roku nedostavil k řešení zubu 47 (endo. oš.). Dnes zhotovení OPG pro zjištění stavu chrupu a zejména zubu 47. <\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idCompany": "Company2",
+    "clients": [
+      {
+        "idClient": "Client10",
+        "firstname": "Patient10",
+        "lastname": "Surname10",
+        "reports": [
+          {
+            "idMedicalReport": "Report46",
+            "datetime": "2027-07-07 11:54",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 16px;&#034;><strong><span style=&#034;color: #000000;&#034;>Kontrola po chirurgické extrakci 48<\/span><\/strong><\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 16px; color: #000000;&#034;><strong>Subj<\/strong>.: pociťuje postupné zlepšení, zhoršené otevírání pusy, analgetika 1x denně<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 16px; color: #000000;&#034;>Obj.: otok extraorálně nění, rána se hojí fyziologicky, mírná kontraktura čelisti - na 2 prsty otevře<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 16px; color: #000000;&#034;>Dop. rozcvičování čelisti, potrava po menších kusech. ATB zatím nutná nejsou.<\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report47",
+            "datetime": "2027-07-01 09:43",
+            "text": "<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; font-size: 16px; border-radius: 0px !important;&#034;>Prosím o extrakci zubu 38 z důvodu - nečistitelné, nevyhovující poloha<\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; font-size: 16px; border-radius: 0px !important;&#034;>Pacient je celkově zdráv, léky neguje, alergie neguje.<\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; font-size: 16px; border-radius: 0px !important;&#034;>OPG bude mít u sebe.<\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;> <\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; font-size: 16px; border-radius: 0px !important;&#034;>Děkuji a s pozdravem,<\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; font-size: 16px; border-radius: 0px !important;&#034;>MDDr. Adéla Kotalíková<\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;> <\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;> <\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;><em style=&#034;box-sizing: border-box;&#034;><span style=&#034;box-sizing: border-box; font-weight: bold;&#034;><span style=&#034;box-sizing: border-box; text-decoration-line: underline; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;>Informace pro pacienty:<\/span><\/span><\/span><\/em><\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;> <\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;><em style=&#034;box-sizing: border-box;&#034;><span style=&#034;box-sizing: border-box; font-weight: bold;&#034;>ANON - Poliklinika Písek <\/span><\/em><\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;><em style=&#034;box-sizing: border-box;&#034;>Objednávky pouze osobně PO a ST v 7:30 (OPG snímek s sebou na objednání)<\/em><\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;> <\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;><em style=&#034;box-sizing: border-box;&#034;><span style=&#034;box-sizing: border-box; font-weight: bold;&#034;>Stomatochirurgické oddělení Nemocnice České Budějovice <\/span><\/em><\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;><em style=&#034;box-sizing: border-box;&#034;>ANON 585/54<\/em><\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;><em style=&#034;box-sizing: border-box;&#034;>Horní areál, pavilon C<\/em><\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;><em style=&#034;box-sizing: border-box;&#034;>37001 České Budějovice <\/em><\/span><\/p>\n<p style=&#034;box-sizing: border-box; background-color: #f7fcff; line-height: 1; border-radius: 0px !important;&#034;><span style=&#034;box-sizing: border-box; border-radius: 0px !important;&#034;><em style=&#034;box-sizing: border-box;&#034;>Tel.: 000 000 000<\/em><\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report48",
+            "datetime": "2027-07-01 08:02",
+            "text": "<p><strong>48 <\/strong><span style=&#034;background-color: #ffffff;&#034;><strong style=&#034;font-size: 16px;&#034;>- prostá / komplikovaná extrakce<\/strong><br /><strong style=&#034;font-size: 16px;&#034;>Obj<\/strong><span style=&#034;font-size: 16px;&#034;>.: kariézní destrukce, periodontitis chronica<\/span><br /><span style=&#034;font-size: 16px;&#034;>SA Supracain 4% 4ml, rozrušení dentogingiválního uzávěru, separace, vybavení zubu v celku / po částech, exkochleace, Gelitaspon + sutura / ponecháno volně, stavění krvácení kompresivní tamponádou ve skusu. <\/span><br /><br /><span style=&#034;font-size: 16px;&#034;>Souhlas s extrakcí podepsán, pacient poučen, odchází stabilizován.<\/span><\/span><\/p>\n<p> <\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>Pacient se před zákrokem nenasnídal, během zákroku nevolnost, udává že omdlévá běžně, ztráta vědomí během výkonu nebyla.<\/span><\/p>\n<p> <\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>př.: ex 38<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>36<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>37<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;> <\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report49",
+            "datetime": "2027-07-01 08:02",
+            "text": "<p><strong>48 <\/strong><span style=&#034;background-color: #ffffff;&#034;><strong style=&#034;font-size: 16px;&#034;>- prostá / komplikovaná extrakce<\/strong><br /><strong style=&#034;font-size: 16px;&#034;>Obj<\/strong><span style=&#034;font-size: 16px;&#034;>.: kariézní destrukce, periodontitis chronica<\/span><br /><span style=&#034;font-size: 16px;&#034;>SA Supracain 4%2ml, rozrušení dentogingiválního uzávěru, separace, vybavení zubu v celku / po částech, exkochleace, Gelitaspon + sutura / ponecháno volně, stavění krvácení kompresivní tamponádou ve skusu. <\/span><br /><br /><span style=&#034;font-size: 16px;&#034;>Souhlas s extrakcí podepsán, pacient poučen, odchází stabilizován.<\/span><\/span><\/p>\n<p> <\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>př.: ex 38<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>36<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>37<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;> <\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report50",
+            "datetime": "2027-07-01 08:02",
+            "text": "<p><strong>48 <\/strong><span style=&#034;background-color: #ffffff;&#034;><strong style=&#034;font-size: 16px;&#034;>- chirurgická extrakce<\/strong><br /><strong style=&#034;font-size: 16px;&#034;>Obj<\/strong><span style=&#034;font-size: 16px;&#034;>.: kariézní destrukce, periodontitis chronica<\/span><br /><span style=&#034;font-size: 16px;&#034;>SA Supracain 4% 4ml, rozrušení dentogingiválního uzávěru, separace, odklopení mukoperiostáního laloku, vybavení zubu po částech, exkochleace, Gelitaspon + sutura, stavění krvácení kompresivní tamponádou ve skusu. <\/span><br /><br /><span style=&#034;font-size: 16px;&#034;>Souhlas s extrakcí podepsán, pacient poučen, odchází stabilizován.<\/span><\/span><\/p>\n<p> <\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>Pacient se před zákrokem nenasnídal, během zákroku nevolnost, udává že omdlévá běžně, ztráta vědomí během výkonu nebyla.<\/span><\/p>\n<p> <\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>př.: ex 38 - odeslán na stomchir<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>36<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;background-color: #ffffff;&#034;>37<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;> <\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client6",
+        "firstname": "Patient6",
+        "lastname": "Surname6",
+        "reports": [
+          {
+            "idMedicalReport": "Report26",
+            "datetime": "2027-06-16 14:49",
+            "text": "<p><strong>Prosím o zhotovení OPG snímku.<\/strong><br /><br /><strong>Děkuji a s pozdravem.<\/strong><br /><strong>MDDr. ANON<\/strong><br /><br /><span style=&#034;text-decoration: underline;&#034;><em>Informace pro pacienty - pracovní doba OPG - poliklinika:<\/em><\/span><br /><em>PO: 8:00-12:00  12:30-15:00<\/em><br /><em>ÚT: 8:00-12:00  12:30-14:30<\/em><br /><em>ST: 8:00-12:00  12:30- 14:30<\/em><br /><em>ČT: 8:00-12:00<\/em><br /><em>PÁ: 8:00-12:00<\/em><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report27",
+            "datetime": "2027-06-16 14:34",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><span style=&#034;text-decoration: underline; font-size: 18px;&#034;><strong>Vstupní prohlídka - komplexní kontrolní vyšetření <\/strong><\/span><br /><strong><br />Subj: vypadlá výplň nahoře vpravo - bez bolesti <\/strong><br /><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>Hygiena:<\/strong> průměrná, plak v krčkových oblastech distálně,na DH dochází <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><br /><strong>Onkol.prohl.:<\/strong> NEG<br /><strong>Extraorálně: <\/strong><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>výstupy n. V nebolestivé, n. V a VII inervují správně, uzliny nezvětšeny, slinné a  štítná žl. nezvětšeny, TMK: bpn<br /><strong>Měk.tk.:<\/strong> <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>orální sliznice BPN, fyziol. povlak jazyka, jazyk pohyblivý všemi směry, vývody slin. žl. secernují čirou slinu<br /><strong>Parodont:<\/strong> parodontitis chronica<br /><br /><strong>Chrup stálý nekompletní<\/strong><br /><strong>BW P+L (0,160s) + 1io snímek: k sanaci 17O, 15O, 25O, 26O, 36DOV, 37 nereaguje vitálně - periodontitis chronica, indikováno RCT <\/strong><strong><br /><br /><\/strong><strong>Zhotovení a vyhodnocení OPG snímku <\/strong><br />Stálý inkompletní chrup<br />chybí zuby: <br />endo. oš. zuby:<br />čelistní dutiny nezastřené, TMK BPN, resorbce alveolární kosti - horizontální<br /><br />Pacient poučen.<br /><br /><strong>LP: 17+15<\/strong><br /><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>25+26<\/strong><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>36<\/strong><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>37 RCT <\/strong><\/span><\/p>",
+            "rn": 5,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report28",
+            "datetime": "2027-06-16 14:34",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><span style=&#034;text-decoration: underline; font-size: 18px;&#034;><strong>Vstupní prohlídka - komplexní kontrolní vyšetření <\/strong><\/span><br /><strong><br />Subj: vypadlá výplň nahoře vpravo - bez bolesti <\/strong><br /><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>Hygiena:<\/strong> nevyhovující, ZK v predilekci, plak v krčkových oblastech, gingivitis, MK neužívá, na Dh pravidelně nedochází, pigmentace -<span style=&#034;color: #000000; background-color: #ff0000;&#034;><span style=&#034;color: #ffffff;&#034;> ODESLÁN NA DH<\/span> <\/span><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><br /><strong>Onkol.prohl.:<\/strong> NEG<br /><strong>Extraorálně: <\/strong><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>výstupy n. V nebolestivé, n. V a VII inervují správně, uzliny nezvětšeny, slinné a  štítná žl. nezvětšeny, TMK: bpn<br /><strong>Měk.tk.:<\/strong> <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>orální sliznice BPN, fyziol. povlak jazyka, jazyk pohyblivý všemi směry, vývody slin. žl. secernují čirou slinu<br /><strong>Parodont:<\/strong> parodontitis chronica<br /><br /><strong>Chrup stálý nekompletní<\/strong><br /><strong>BW P+L (0,160s): k sanaci <\/strong><br /><strong>HLÍDAT: <br /><br /><\/strong><strong>Zhotovení a vyhodnocení OPG snímku <\/strong><br />Stálý inkompletní chrup<br />chybí zuby: <br />endo. oš. zuby:<br />čelistní dutiny nezastřené, TMK BPN, resorbce alveolární kosti - horizontální<br /><br />Pacient poučen.<br /><br /><strong>LP: <\/strong><br />KO příští rok.<\/span><\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report29",
+            "datetime": "2027-06-16 14:34",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><span style=&#034;text-decoration: underline; font-size: 18px;&#034;><strong>Vstupní prohlídka - komplexní kontrolní vyšetření <\/strong><\/span><br /><strong><br />Subj: vypadlá výplň nahoře vpravo - bez bolesti <\/strong><br /><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>Hygiena:<\/strong> nevyhovující, ZK v predilekci, plak v krčkových oblastech, gingivitis, MK neužívá, na Dh pravidelně nedochází, pigmentace -<span style=&#034;color: #000000; background-color: #ff0000;&#034;><span style=&#034;color: #ffffff;&#034;> ODESLÁN NA DH<\/span> <\/span><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><br /><strong>Onkol.prohl.:<\/strong> NEG<br /><strong>Extraorálně: <\/strong><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>výstupy n. V nebolestivé, n. V a VII inervují správně, uzliny nezvětšeny, slinné a  štítná žl. nezvětšeny, TMK: bpn<br /><strong>Měk.tk.:<\/strong> <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>orální sliznice BPN, fyziol. povlak jazyka, jazyk pohyblivý všemi směry, vývody slin. žl. secernují čirou slinu<br /><strong>Parodont:<\/strong> parodontitis chronica<br /><br /><strong>Chrup stálý nekompletní<\/strong><br /><strong>BW P+L (0,160s): k sanaci <\/strong><br /><strong>HLÍDAT: <br /><br /><\/strong><strong>Zhotovení a vyhodnocení OPG snímku <\/strong><br />Stálý inkompletní chrup<br />chybí zuby: <br />endo. oš. zuby:<br />čelistní dutiny nezastřené, TMK BPN, resorbce alveolární kosti - horizontální<br /><br />Pacient poučen.<br /><br /><strong>LP: <\/strong><br />KO příští rok.<\/span><\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report30",
+            "datetime": "2027-06-16 14:34",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><span style=&#034;text-decoration: underline; font-size: 18px;&#034;><strong>Vstupní prohlídka - komplexní kontrolní vyšetření <\/strong><\/span><br /><strong><br />Subj: vypadlá výplň nahoře vpravo - bez bolesti <\/strong><br /><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>Hygiena:<\/strong> průměrná, plak v krčkových oblastech distálně,na DH dochází <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><br /><strong>Onkol.prohl.:<\/strong> NEG<br /><strong>Extraorálně: <\/strong><\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>výstupy n. V nebolestivé, n. V a VII inervují správně, uzliny nezvětšeny, slinné a  štítná žl. nezvětšeny, TMK: bpn<br /><strong>Měk.tk.:<\/strong> <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>orální sliznice BPN, fyziol. povlak jazyka, jazyk pohyblivý všemi směry, vývody slin. žl. secernují čirou slinu<br /><strong>Parodont:<\/strong> parodontitis chronica<br /><br /><strong>Chrup stálý nekompletní<\/strong><br /><strong>BW P+L (0,160s) + 2io snímky: k sanaci 17O, 15O, 25O, 26O, 36DOV, 37 nereaguje vitálně - periodontitis chronica, indikováno RCT <\/strong><strong><br /><br /><\/strong><strong>Zhotovení a vyhodnocení OPG snímku <\/strong><br />Stálý inkompletní chrup<br />chybí zuby: <br />endo. oš. zuby:<br />čelistní dutiny nezastřené, TMK BPN, resorbce alveolární kosti - horizontální<br /><br />Pacient poučen.<br /><br /><strong>LP: 17+15<\/strong><br /><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>25+26<\/strong><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>36<\/strong><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>37 RCT <\/strong><\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client7",
+        "firstname": "Patient7",
+        "lastname": "Surname7",
+        "reports": [
+          {
+            "idMedicalReport": "Report31",
+            "datetime": "2027-07-01 11:36",
+            "text": "<p><strong>33, 34 klínové defekty<\/strong><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>, V.tř. dle Blacka, LA Supracain 4% 2ml, optragate, zábrus, teflon, etch, G-PremioBond, Gradia Direct XA3, artikulace, leštění.<\/span><\/p>\n<p> <\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>Stav po ošetření 22 klidný, potíže občas - citlivost od zubů horní i dolní čelisiti až do ucha, na ušním bpn, susp. TMK. - choí na fyzioterapii, dop. terapie tam.<\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><br />Pacient poučen, Ko za rok.<\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report32",
+            "datetime": "2027-07-01 11:36",
+            "text": "<p><strong>33, 34 klínové defekty<\/strong><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>, V.tř. dle Blacka, LA Supracain 4% 2ml, optragate, zábrus, teflon, etch, G-PremioBond, Gradia Direct XA3, artikulace, leštění.<\/span><\/p>\n<p> <\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>Stav po ošetření 22 klidný, potíže občas - citlivost od zubů horní i dolní čelisiti až do ucha, na ušním bpn, susp. TMK. - choí na fyzioterapii, dop. terapie tam.<\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><br />Pacient poučen, Ko za rok.<\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report33",
+            "datetime": "2027-06-10 14:35",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><span style=&#034;text-decoration: underline; font-size: 18px;&#034;><strong>Akutní ošetření.<\/strong><\/span><br /><br /><strong>Subj.: <\/strong>občasná bolest pod můstkem na levé straně - nedokáže určit jestli nahoře či dole, vystřelující charakter, převážně v noci, všímá si mírného otoku pod L okem vedle nosu<br /><strong>Obj.:<\/strong> otok na tváři neguji, 23 reaguje vitálně, zkouška vitality i u 36 pozitivní, poklep všude bpn, 22D náhodný nález car. sec. pulpae proxima, vitálně nereaguje <br /><strong>2io snímky: <\/strong>25 a 23 periapik. klidné,<strong><br /><br />Th.: <\/strong>22D probatorní exkavace - optragate, v blízkosti pulpy bolí při preparaci, 2ml Supracain 4%LA, MTA NPD, etch, G-Premiobond, SDR-A2 + Gradia XA2, artikulace, leštění.<br /><br />Pac. poučena. Při pokračujících potížích zavolá - případně RCT 22<\/span><\/p>\n<p> <\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>př.: krčky 34+33<\/span><\/p>\n<p> <\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report34",
+            "datetime": "2027-06-10 14:35",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><span style=&#034;text-decoration: underline; font-size: 18px;&#034;><strong>Akutní ošetření.<\/strong><\/span><br /><br /><strong>Subj.: <\/strong>občasná bolest pod můstkem na levé straně - nedokáže určit jestli nahoře či dole, vystřelující charakter, převážně v noci, všímá si mírného otoku pod L okem vedle nosu<br /><strong>Obj.:<\/strong> otok na tváři neguji, 23 reaguje vitálně, zkouška vitality i u 36 pozitivní, poklep všude bpn, 22D náhodný nález car. sec. pulpae proxima, vitálně nereaguje <br /><strong>2io snímky: <\/strong>25 a 23 periapik. klidné,<strong><br /><br />Th.: <\/strong>22D probatorní exkavace - optragate, v blízkosti pulpy bolí při preparaci, 2ml Supracain 4%LA, MTA NPD, etch, G-Premiobond, SDR-A2 + Gradia XA2, artikulace, leštění.<br /><br />Pac. poučena. Při pokračujících potížích zavolá - případně RCT 22<\/span><\/p>\n<p> <\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>př.: krčky 34+35<\/span><\/p>\n<p> <\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report35",
+            "datetime": "2027-06-10 14:35",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><span style=&#034;text-decoration: underline; font-size: 18px;&#034;><strong>Akutní ošetření.<\/strong><\/span><br /><br /><strong>Subj.: <\/strong>občasná bolest pod můstkem na levé straně - nedokáže určit jestli nahoře či dole, vystřelující charakter, převážně v noci, všímá si mírného otoku pod L okem vedle nosu<br /><strong>Obj.:<\/strong> otok na tváři neguji, 23 reaguje vitálně, zkouška vitality i u 36 pozitivní, poklep všude bpn, 22D náhodný nález car. sec. pulpae proxima, vitálně nereaguje <br /><strong>2io snímky: <\/strong>25 a 23 periapik. klidné,<strong><br /><br />Th.: <\/strong>22D probatorní exkavace - optragate, v blízkosti pulpy bolí při preparaci, 2ml Supracain 4%LA, <br /><br />Pac. poučena.<\/span><\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client8",
+        "firstname": "Patient8",
+        "lastname": "Surname8",
+        "reports": [
+          {
+            "idMedicalReport": "Report36",
+            "datetime": "2027-06-28 12:51",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>Dobrý den,souhlasím dnes6.5 s ošetřením svého syna Daniela Budína. Děkuji ANON<\/span><\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report37",
+            "datetime": "2027-06-22 12:22",
+            "text": "<p><span style=&#034;color: #0000ff;&#034;><strong>Vstupní vyšetření, anamnéza<br /><br /><span style=&#034;color: #3366ff;&#034;>Recall<\/span><\/strong><span style=&#034;color: #3366ff;&#034;> <\/span><strong><span style=&#034;color: #3366ff;&#034;><br /><br /><\/span><\/strong><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;>-<\/span><\/span><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;> pacient poprvé na DH, odeslán PZL, na žádost rodičů, před ortodontickou terapií<br />- dnes ošetření s matkou, otcem<br />- rodiče na DH chodí, nechodí<br />- rodiče dočišťují, nedočišťují<br /><br /><span style=&#034;color: #000000;&#034;><span style=&#034;color: #ff0000;&#034;><strong>Gingivis, vysoká kazivost<br /><\/strong><\/span><strong>MALHYGIENA <\/strong><br /><br /><span style=&#034;text-decoration: underline;&#034;><strong>- POVLAK:<\/strong><\/span><br /><strong><span style=&#034;text-decoration: underline;&#034;>-ZK:<\/span><\/strong><br /><br /><span style=&#034;text-decoration: underline;&#034;>zhotoveno:<\/span> detekce plaku, OZK - ručně, depurace, fluoridace Mirafluor <br /><br /><strong>Motivace, instruktáž <br /><br /><\/strong><span style=&#034;text-decoration: underline;&#034;>Pacient používá:<\/span> <br /><br />dop. Foneho, Bassova technika<br />dop. Tepe Compact Soft, X-Soft, Solo <br />dop. GCTMP, Elmex gel<br /><br />- matka, otec poučeni o kontrole a dočišťování dětského chrupu<br /><br />KO - za 6m<br /><br /><\/span><\/span><\/span><strong><br /><\/strong><\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report38",
+            "datetime": "2027-06-22 12:22",
+            "text": "<p><span style=&#034;color: #0000ff;&#034;><strong><span style=&#034;color: #3366ff;&#034;>Recall<\/span><\/strong><span style=&#034;color: #3366ff;&#034;> po 6 měs.<\/span><strong><span style=&#034;color: #3366ff;&#034;><br /><br /><\/span><\/strong><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;>-<\/span><\/span><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;> pacient přišel sám, souhlas maminka posílala smskou<\/span><\/span><\/span><\/p>\n<p><span style=&#034;color: #0000ff;&#034;><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;>- 2 měs- po nasazení rovnátek<br /><br /><span style=&#034;color: #000000;&#034;><span style=&#034;color: #ff0000;&#034;><strong>Gingivis mírně u mol. id - zde se špatně dostává s MK<br /><\/strong><\/span>PI - 1<\/span><\/span><\/span><\/span><\/p>\n<p><span style=&#034;color: #0000ff;&#034;><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;><span style=&#034;color: #000000;&#034;><br /><span style=&#034;text-decoration: underline;&#034;><strong>- POVLAK: mírně kol. <\/strong><\/span><br /><strong><span style=&#034;text-decoration: underline;&#034;>-ZK: mezi  41/31<\/span><\/strong><br /><br /><span style=&#034;text-decoration: underline;&#034;>zhotoveno:<\/span> OZK - ručně, depurace, AF vodou, fluoridace Mirafluor <br /><br /><strong>Motivace, instruktáž <br /><br /><\/strong><span style=&#034;text-decoration: underline;&#034;>Pacient používá:<\/span> MK - tepe 0,6; 0,45; 0,4 + má 0,5 a 0,8 i pod drátky (MK dop. s delšími držátky), rotační kar.<br /><br />dop. výměna za sonicare<br />dop. Solo (již z orto)<br />dop. Biorepair, Elmex gel<br /><br />KO - za 4m<br /><br /><\/span><\/span><\/span><strong><br /><\/strong><\/span><\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report39",
+            "datetime": "2027-06-22 12:22",
+            "text": "<p><span style=&#034;color: #0000ff;&#034;><strong><span style=&#034;color: #3366ff;&#034;>Recall<\/span><\/strong><span style=&#034;color: #3366ff;&#034;> po 6 měs.<\/span><strong><span style=&#034;color: #3366ff;&#034;><br /><br /><\/span><\/strong><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;>-<\/span><\/span><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;> pacient přišel sám, souhlas maminka posílala smskou<\/span><\/span><\/span><\/p>\n<p><span style=&#034;color: #0000ff;&#034;><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;>- 2 měs- po nasazení rovnátek<br /><br /><span style=&#034;color: #000000;&#034;><span style=&#034;color: #ff0000;&#034;><strong>Gingivis mírně u mol. id - zde se špatně dostává s MK<br /><\/strong><\/span>PI - 1<\/span><\/span><\/span><\/span><\/p>\n<p><span style=&#034;color: #0000ff;&#034;><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;><span style=&#034;color: #000000;&#034;><br /><span style=&#034;text-decoration: underline;&#034;><strong>- POVLAK: mírně kol. <\/strong><\/span><br /><strong><span style=&#034;text-decoration: underline;&#034;>-ZK: mezi  41/31<\/span><\/strong><br /><br /><span style=&#034;text-decoration: underline;&#034;>zhotoveno:<\/span> OZK - ručně, depurace, AF vodou, fluoridace Mirafluor <br /><br /><strong>Motivace, instruktáž <br /><br /><\/strong><span style=&#034;text-decoration: underline;&#034;>Pacient používá:<\/span> MK - tepe 0,6; 0,45; 0,4 + má 0,5 a 0,8 i pod drátky (MK dop. s delšími držátky), rotační kar.<br /><br />dop. výměna za sonicare<br />dop. Solo (již z orto)<br />dop. Biorepair, Elmex gel<br /><br />KO - za 6m<br /><br /><\/span><\/span><\/span><strong><br /><\/strong><\/span><\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report40",
+            "datetime": "2027-06-22 12:22",
+            "text": "<p><span style=&#034;color: #0000ff;&#034;><strong><span style=&#034;color: #3366ff;&#034;>Recall<\/span><\/strong><span style=&#034;color: #3366ff;&#034;> po 6 měs.<\/span><strong><span style=&#034;color: #3366ff;&#034;><br /><br /><\/span><\/strong><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;>-<\/span><\/span><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;> pacient přišel sám, souhlas maminka posílala smskou<\/span><\/span><\/span><\/p>\n<p><span style=&#034;color: #0000ff;&#034;><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;>- 2 měs- po nasazení rovnátek<br /><br /><span style=&#034;color: #000000;&#034;><span style=&#034;color: #ff0000;&#034;><strong>Gingivis mírně u mol. id - zde se špatně dostává s MK<br /><\/strong><\/span>PI - 1<\/span><\/span><\/span><\/span><\/p>\n<p><span style=&#034;color: #0000ff;&#034;><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;><span style=&#034;color: #000000;&#034;><br /><span style=&#034;text-decoration: underline;&#034;><strong>- POVLAK: mírně kol. zámečků<\/strong><\/span><br /><strong><span style=&#034;text-decoration: underline;&#034;>-ZK: mezi  41/31<\/span><\/strong><br /><br /><span style=&#034;text-decoration: underline;&#034;>zhotoveno:<\/span> OZK - ručně, depurace, AF vodou, fluoridace Mirafluor <br /><br /><strong>Motivace, instruktáž <br /><br /><\/strong><span style=&#034;text-decoration: underline;&#034;>Pacient používá:<\/span> <strong>MK - tepe 0,6; 0,45; 0,4 + má 0,5 a 0,8<\/strong> i pod drátky (MK dop. s delšími držáky), rotační kar.<br />                            <br />dop. výměna za sonicare<br />dop. Solo (již z orto)<br />dop. Biorepair, Elmex gel<br /><\/span><\/span><\/span><\/span><\/p>\n<p> <\/p>\n<p><span style=&#034;color: #0000ff;&#034;><span style=&#034;color: #3366ff;&#034;><span style=&#034;color: #000000;&#034;><span style=&#034;color: #000000;&#034;><br />KO - za 4m<br /><br /><\/span><\/span><\/span><strong><br /><\/strong><\/span><\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client9",
+        "firstname": "Patient9",
+        "lastname": "Surname9",
+        "reports": [
+          {
+            "idMedicalReport": "Report41",
+            "datetime": "2027-07-07 12:36",
+            "text": "<p><strong>x<\/strong> - <span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>LA / SA 2ml Supracain 4%, optragate, odstranění nevyhovující výplně / dostavby, exkavace, caries detector, retr. vlákno s viskostatem + teflon - izolacedo sulku, etch, G-PremioBond, GC G-aenial Universal Injectable A2 + Gradia Direct XA1 dostavba pilíře<br />preparace na korunku, otiskování - hl. otisk Sioplast, protiskus Hydrogum 5, vosk. reg, barva A2<br />zhotovení provizorní razidlové korunky, cementováno na TempBond NE.<br /><br /><span style=&#034;color: #ff0000;&#034;><strong>Záloha 5000,-<\/strong><\/span><\/span><\/p>\n<p> <\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;>př.: otisk 45, 46 - 45 zirkon, 46 dlouhodobě provizorní korunka - následně zirkon<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;>ex 47<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;>ex 37+38 radix relicta<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;> rozmyslí sanace nebo ex  17, 27<\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report42",
+            "datetime": "2027-07-07 12:36",
+            "text": "<p><strong>46, 45 <\/strong>- <span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>LA 1ml Septanest, optragate, preparace na korunku, otiskování - hl. otisk Sioplast, protiskus Hydrogum 5, vosk. reg,<\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>46 provizorní korunka - barva A2/A3, 45 zirkon - barva A2,A3 (A3.5)<br /><br /><br /><span style=&#034;color: #ff0000;&#034;><strong>Záloha 5000,-<\/strong><\/span><\/span><\/p>\n<p> <\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;>př.: otisk 45, 46 - 45 zirkon, 46 dlouhodobě provizorní korunka - následně zirkon<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;>ex 47<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;>ex 37+38 radix relicta<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;> rozmyslí sanace nebo ex  17, 27<\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report43",
+            "datetime": "2027-06-30 12:57",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>45 - RCT<\/strong> - SA Supracain 4%2ml, optragate, exkavace, caries detector, teflon izolace sulku, preendodontická dostavba - etch, G-Premiobond, GC Universal Injectable A2, Gradia Direct XA2<br />kofferdam, trepanace, sondáž KK, exstirpace<br /><strong>PD<\/strong>: <br />strojové opracování Protaper Ultimate ISO 35.012, výplach EDTA 17% 10ml, NaClO 2,5% 30ml, <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>vysušení KK<br />zkouška GTP čepů - zhotovení i.o. snímků (2x) - měřící a po plnění<br />NeoSealer Flo, FastFill vertikální kondenzace.<br />FTK dostavba - líh, etch, G-PremioBond, SDR-U, artikulace, leštění.<br /><br /><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>46 - RCT<\/strong> - exkavace, caries detector, teflon izolace sulku, preendodontická dostavba - etch, G-Premiobond, GC Universal Injectable A2, Gradia Direct XA2<br />trepanace, sondáž KK, exstirpace<br /><strong>PD<\/strong>: <br />strojové opracování Protaper Ultimate ISO 30.09, výplach EDTA 17% 10ml, NaClO 2,5% 30ml, <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>vysušení KK<br />zkouška GTP čepů - zhotovení i.o. snímků (2x) - měřící a po plnění<br />NeoSealer Flo, FastFill vertikální kondenzace.<br />FTK dostavba - líh, etch, G-PremioBond, SDR-U, artikulace, leštění.<br /><br />Pac. poučen o možné citlivosti.<\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;> <\/span><\/p>",
+            "rn": 5,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report44",
+            "datetime": "2027-06-30 12:57",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>45 - RCT<\/strong> - SA Supracain 4%2ml, optragate, exkavace, caries detector, teflon izolace sulku, preendodontická dostavba - etch, G-Premiobond, GC Universal Injectable A2, Gradia Direct XA2<br />kofferdam, trepanace, sondáž KK, exstirpace<br /><strong>PD<\/strong>: <br />strojové opracování Protaper Ultimate ISO 35.012, výplach EDTA 17% 10ml, NaClO 2,5% 30ml, <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>vysušení KK<br />zkouška GTP čepů - zhotovení i.o. snímků (2x) - měřící a po plnění<br />NeoSealer Flo, FastFill vertikální kondenzace.<br />FTK dostavba - líh, etch, G-PremioBond, SDR-U, artikulace, leštění.<br /><br /><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>46 - RCT<\/strong> - exkavace, caries detector, teflon izolace sulku, preendodontická dostavba - etch, G-Premiobond, GC Universal Injectable A2, Gradia Direct XA2<br />trepanace, sondáž KK, exstirpace<br /><strong>PD<\/strong>: <br />strojové opracování Protaper Ultimate ISO 30.09, výplach EDTA 17% 10ml, NaClO 2,5% 30ml, <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>vysušení KK<br />zkouška GTP čepů - zhotovení i.o. snímků (2x) - měřící a po plnění<br />NeoSealer Flo, FastFill vertikální kondenzace.<br />FTK dostavba - líh, etch, G-PremioBond, SDR-U, artikulace, leštění.<br /><br />Pac. poučen o možné citlivosti.<\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;> <\/span><\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report45",
+            "datetime": "2027-06-30 12:57",
+            "text": "<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>45 - RCT<\/strong> - SA Supracain 4%2ml, optragate, exkavace, caries detector, teflon izolace sulku, preendodontická dostavba - etch, G-Premiobond, GC Universal Injectable A2<br />kofferdam, trepanace, sondáž 1KK, exstirpace nevitální pulpy<br /><strong>PD<\/strong>: 18mm<br />strojové opracování Protaper Ultimate ISO 35.012, výplach EDTA 17% 10ml, NaClO 2,5% 30ml, <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>vysušení KK<br />zkouška GTP čepů - zhotovení i.o. snímků (4x) - před oš., měřící a po plnění<br />NeoSealer Flo, FastFill vertikální kondenzace.<br />FTK dostavba - líh, etch, G-PremioBond, SDR-U, artikulace, leštění.<br /><br /><\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;><strong>46 - RCT<\/strong> - exkavace, caries detector, teflon izolace sulku, preendodontická dostavba - etch, G-Premiobond, GC Universal Injectable A2<br />trepanace, sondáž 4KK, exstirpace nevitální pulpy<br /><strong>PD<\/strong>: mesiální 2kk nelze zprůchodnit dále<br />strojové opracování Protaper Ultimate ISO 30.09, výplach EDTA 17% 10ml, NaClO 2,5% 30ml, <\/span><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;>vysušení KK<br />zkouška GTP čepů<br />NeoSealer Flo, FastFill vertikální kondenzace.<br />FTK dostavba - líh, etch, G-PremioBond, SDR-U, artikulace, leštění.<br /><br />Pac. poučen o možné citlivosti.<\/span><\/p>\n<p> <\/p>\n<p><span style=&#034;font-size: 14px; background-color: #ffffff;&#034;>př.: otisk 45, 46 - 45 zirkon, 46 dlouhodobě provizorní korunka - následně zirkon<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;>ex 47<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;>ex 37+38 radix relicta<\/span><\/p>\n<p style=&#034;font-size: 14px; font-weight: 500;&#034;><span style=&#034;font-size: 14px;&#034;> rozmyslí sanace nebo ex  17, 27<\/span><\/p>\n<p><span style=&#034;font-size: 16px; background-color: #ffffff;&#034;> <\/span><\/p>",
+            "rn": 3,
+            "report_count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idCompany": "Company3",
+    "clients": [
+      {
+        "idClient": "Client11",
+        "firstname": "Patient11",
+        "lastname": "Surname11",
+        "reports": [
+          {
+            "idMedicalReport": "Report51",
+            "datetime": "2027-06-28 07:54",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;>Minulý týden asi 2 dny bolesti v obl rány pod jazykem, bral Aulin, nyní již zlepšení, obj část stehů již vypadsla, zarudnutí okolo stehu v dist. pólu rány, zbytek stehů ex, Rp na Dalacin C 1 bal. Ko p.p. jinak ko rtg dle plánu.<\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report52",
+            "datetime": "2027-06-28 07:54",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;>Minulý týden asi 2 dny bolesti v obl rány pod jazykem, <\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report53",
+            "datetime": "2027-06-14 08:01",
+            "text": "<p>Ko, rána klidná, bez známek  zánětu, pac bez otoku, bolesti nemá, toileta rány H2O2, ko p.p. jinak za měsíc ko rtg.<\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report54",
+            "datetime": "2027-06-10 09:06",
+            "text": "<p><span style=&#034;color: #ff0000;&#034;>V<\/span><span style=&#034;color: #ff0000;&#034;> anestezii 4% Supracain zavedení 2 ks implantátů OKTAGON BL RC 4,8/12 mm v místě chybějících zubů 36,37. Odklopení mukoper. laloku, vytvoření lůžek pro implantáty a zavedení implantátů. Dotažení na 35 Ncm. Primární stabilita výborná, toileta rány, sutura Glycolon 4-0. Ko rtg, pozice implantátu uspokojivá. Poučení pacienta, kašovitá dieta, pečlivá hygiena, výplachy antibakteriální ústní vodou s CHHX 0,2% 5x denně. Ko v pondělí.<\/span><\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report55",
+            "datetime": "2027-06-10 09:06",
+            "text": "<p><span style=&#034;color: #ff0000;&#034;>V<\/span><span style=&#034;color: #ff0000;&#034;> anestezii 4% Supracain zavedení 2 ks implantátů OKTAGON BL RC 4,8/12 mm v místě chybějících zubů 36,37. Odklopení mukoper. laloku, vytvoření lůžek pro implantáty a zavedení implantátů. Dotažení na 35 Ncm. Primární stabilita výborná, toileta rány, sutura Glycolon 4-0. Ko rtg, pozice implantátu uspokojivá. Poučení pacienta, kašovitá dieta, pečlivá hygiena, výplachy antibakteriální ústní vodou s CHHX 0,2% 5x denně. Ko v pondělí.<\/span><\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client12",
+        "firstname": "Patient12",
+        "lastname": "Surname12",
+        "reports": [
+          {
+            "idMedicalReport": "Report56",
+            "datetime": "2027-07-01 13:19",
+            "text": "<p>ZUB 36 v anestezii 2% Supracain preparace na kor. z ker., naskenování obou čelistí a mezičelistních vztahů skenerem Medit i600, barva  3,5, odeslání do lab. LenkDent.<\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report57",
+            "datetime": "2027-07-01 13:19",
+            "text": "<p>ZUB 36 v anestezii 2% Supracain preparace na kor. z ker., naskenování obou čelistí a mezičelistních vztahů skenerem Medit i600, barva  3,5, odeslání do lab. LenkDent<\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report58",
+            "datetime": "2027-07-01 13:19",
+            "text": "<p>ZUB 36 v anestezii 2% Supracain preparace na kor. z ker., naskenování obou čelistí a mezičelistních vztahů skenerem Medit i600, barva  3,5, odeslání do lab. LenkDent.<\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report59",
+            "datetime": "2027-07-01 13:19",
+            "text": "<p>ZUB 36 v anestezii 2% Supracain preparace na kor. z ker., naskenování obou čelistí a mezičelistních vztahů skenerem Medit i600, barva  3,5, odeslání do lab. LenkDent<\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report60",
+            "datetime": "2027-06-16 11:34",
+            "text": "<p>ZUB 36, odstranění zbytků staré výplně a kariesních hmot, rtg radixu, endo oš, periapik. klidný, hraniční šíře dentinu na spoji mes. a dist. kořene. Domluveno kompromis. řešení,  ZUB 46 dostavba čep Unimetric + Sonic Fill,  obj. na sken na korunku<\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client13",
+        "firstname": "Patient13",
+        "lastname": "Surname13",
+        "reports": [
+          {
+            "idMedicalReport": "Report61",
+            "datetime": "2027-06-14 10:40",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;><\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report62",
+            "datetime": "2027-06-14 10:40",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;><\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report63",
+            "datetime": "2027-06-14 10:40",
+            "text": "<p><strong>Preventivní prohlídka<\/strong>, chrup s vypadlou výplní 16, novým kazem 15  a kazem pod výplní 17. rtg 17-15 - kaz dist na 17 , 17 kaz pod MB kořenem, ad extr., kontrola hygienických návyků, IDK užívá pravidelně, možná menší než by měla, V anestezii 4% Septanest ZUB 16 caries II tř. p.prox. , odstranění kariesních hmot, ko Caries detector, matrice, zaklínkování, Dycal, výplň Equia Forte ODP. Příště 15, pak extr 17<\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report64",
+            "datetime": "2027-06-14 10:40",
+            "text": "<p><strong>Preventivní prohlídka<\/strong>, chrup s vypadlou výplní 16, novým kazem 15  a kazem pod výplní 17. rtg 17-15 - kaz dist na 17 , 17 kaz pod MB kořenem, ad extr., kontrola hygienických návyků, IDK užívá pravidelně, možná menší než by měla, V anestezii 4% Septanest ZUB 16 caries II tř. p.prox. , odstranění kariesních hmot, ko Caries detector, matrice, zaklínkování, Dycal, výplň Equia Forte ODP<\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report65",
+            "datetime": "2027-06-14 10:40",
+            "text": "<p><strong>Preventivní prohlídka<\/strong>, chrup s vypadlou výplní 16, novým kazem 15  a kazem pod výplní 17. rtg 17-15 - kaz dist na 17 , 17 kaz pod MB kořenem, ad extr., kontrola hygienických návyků, IDK užívá pravidelně, možná menší než by měla, V anestezii 4% Septanest ZUB 16 caries II tř. p.prox. , odstranění kariesních hmot, ko Caries detector, matrice, zaklínkování, Dycal, výplň Equia Forte ODP. Příště 15, pak extr 17<\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client14",
+        "firstname": "Patient14",
+        "lastname": "Surname14",
+        "reports": [
+          {
+            "idMedicalReport": "Report66",
+            "datetime": "2027-06-29 13:50",
+            "text": "<p><strong>Preventivní prohlídka<\/strong>, chrup s vypadlou výplní 45 a ulomenou částí overlaye 16, ost. chrup sanován, kontrola hygienických návyků, IDK užívá nepravidelně, <span style=&#034;font-size: 14px; color: #000000;&#034;>Rtg impl 25, <\/span>V anestezii 4% Septanest ZUB 45 vypadlá rozsáhlá výplň, úprava preparace, ko Caries detector, matrice, zaklínkování, výplň Sonic Fill MODL.<\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report67",
+            "datetime": "2027-06-29 13:50",
+            "text": "<p><strong>Preventivní prohlídka<\/strong>, chrup s vypadlou výplní 45 a ulomenou částí overlaye 16, ost. chrup sanován, kontrola hygienických návyků, IDK užívá nepravidelně, <span style=&#034;font-size: 14px; color: #000000;&#034;>Rtg impl 25, <\/span>V anestezii 4% Septanest ZUB 45 vypadlá rozsáhlá výplň, odstranění kariesních hmot, ko Caries detector, matrice, zaklínkování, výplň Sonic Fill MODL.<\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report68",
+            "datetime": "2027-06-29 13:50",
+            "text": "<p><strong>Preventivní prohlídka<\/strong>, chrup s vypadlou výplní 45 a ulomenou částí overlaye 16, ost. chrup sanován, kontrola hygienických návyků, IDK užívá nepravidelně, <span style=&#034;font-size: 14px; color: #000000;&#034;>Rtg impl 25, <\/span>V anestezii 4% Septanest ZUB 45 vypadlá rozsáhlá výplň, úprava preparace, ko Caries detector, matrice, zaklínkování, výplň Sonic Fill MODL.<\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report69",
+            "datetime": "2027-06-29 13:50",
+            "text": "<p><strong>Preventivní prohlídka<\/strong>, chrup s vypadlou výplní 45 a ulomenou částí overlaye 16, ost. chrup sanován, kontrola hygienických návyků, IDK užívá nepravidelně, <span style=&#034;font-size: 14px; color: #000000;&#034;>Rtg impl 25, <\/span>V anestezii 4% Septanest ZUB 45 vypadlá rozsáhlá výplň, úprava preparace, ko Caries detector, matrice, zaklínkování, výplň Sonic Fill MODL.<\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report70",
+            "datetime": "2027-06-29 13:50",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Rtg impl 25, <\/span>V anestezii 4% Septanest ZUB 45 vypadlá rozsáhlá výplň, odstranění kariesních hmot, ko Caries detector, matrice, zaklínkování, výplň Sonic Fill MODL<\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client15",
+        "firstname": "Patient15",
+        "lastname": "Surname15",
+        "reports": [
+          {
+            "idMedicalReport": "Report71",
+            "datetime": "2027-06-21 15:17",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>ZUB 35 v anestezii 4% Septanaest paliativní ošetření pod kor. GIZ Equia Forte CV. Poučen<\/span><\/p>",
+            "rn": 5,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report72",
+            "datetime": "2027-06-21 15:17",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>ZUB 35 v anestezii 4% Septanaest paliativní ošetření pod kor. GIZ Equia Forte CV. Poučen<\/span><\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report73",
+            "datetime": "2027-06-21 15:17",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>ZUB 35  paliativní ošetření pod kor. GIZ Equia Forte CV. <\/span><\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report74",
+            "datetime": "2027-06-21 15:17",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>ZUB 35 v anestezii 4% Septanaest paliativní ošetření pod kor. GIZ Equia Forte CV. <\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report75",
+            "datetime": "2027-06-21 15:17",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>ZUB 35 v anestezii 4% Septanaest paliativní ošetření pod kor. GIZ Equia Forte CV. Poučen, ko po N roce, p.p. dříve<\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idCompany": "Company4",
+    "clients": [
+      {
+        "idClient": "Client16",
+        "firstname": "Patient16",
+        "lastname": "Surname16",
+        "reports": [
+          {
+            "idMedicalReport": "Report76",
+            "datetime": "2027-07-06 11:33",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>LA Supracain 4% 1,5ml<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>22 DCB, sekundární kariézní defekt, exkavace, Charisma A2<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Doporučení na OPG, předoperační vyš.<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report77",
+            "datetime": "2027-07-06 11:33",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>LA Supracain 4% 1,5ml<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>22 DCB, sekundární kariézní defekt, exkavace, Charisma A2<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Doporučení na OPG, předoperační vyš.<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report78",
+            "datetime": "2027-07-06 11:33",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>LA Supracain 4% 1,5ml<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report79",
+            "datetime": "2027-07-06 11:33",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>LA Supracain 4% 1,5ml<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report80",
+            "datetime": "2027-06-14 10:02",
+            "text": "<p>LA Supracain 4% 3,5ml<\/p>\n<p>44 CV, stř.hluboká kar.léze, exkavace, G-aenial UI<\/p>\n<p>33 ML, sekundární stř.hluboká kar.léze, exkavace, G-aenial UI<\/p>\n<p>Příště doporučení na OPG<\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client17",
+        "firstname": "Patient17",
+        "lastname": "Surname17",
+        "reports": [
+          {
+            "idMedicalReport": "Report81",
+            "datetime": "2027-07-06 12:31",
+            "text": "<p>Úprava, artikulace, předání HSN skeletové.<\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report82",
+            "datetime": "2027-07-06 12:31",
+            "text": "<p>Úprava, artikulace, předání HSN skeletové.<\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report83",
+            "datetime": "2027-07-01 14:10",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>ZZVV<\/span><\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report84",
+            "datetime": "2027-06-22 09:04",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>FL, COVS<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report85",
+            "datetime": "2027-06-09 10:05",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Předběžné otisky na HPP<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idCompany": "Company5",
+    "clients": [
+      {
+        "idClient": "Client18",
+        "firstname": "Patient18",
+        "lastname": "Surname18",
+        "reports": [
+          {
+            "idMedicalReport": "Report86",
+            "datetime": "2027-06-23 10:30",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Dle telefonicke domluvi s kardiologii vysazeno Xarelto pred extrakci<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>extrakce, supracain 47<\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report87",
+            "datetime": "2027-06-23 10:30",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Dle telefonicke domluvi s kardiologii vysazeno Xarelto pred extrakci<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>extrakce, supracain 47,46+Fibrin do rany +OPG<\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report88",
+            "datetime": "2027-06-23 10:30",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>Dle telefonicke domluvi s kardiologii vysazeno Xarelto pred extrakci<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>extrakce, supracain 47,43+Fibrin do rany +OPG<\/span><\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report89",
+            "datetime": "2027-06-18 10:57",
+            "text": "<p>Prevent. vyš.<\/p>\n<p>Predoperacní vysetrení -opg<\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report90",
+            "datetime": "2027-06-18 10:57",
+            "text": "<p>Prevent. vyš.<\/p>\n<p>Predoperacní vysetrení -<\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client19",
+        "firstname": "Patient19",
+        "lastname": "Surname19",
+        "reports": [
+          {
+            "idMedicalReport": "Report91",
+            "datetime": "2027-07-06 15:56",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>supracain +RVG <\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>13-delka 27<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>11-  delka25<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>12 -17<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report92",
+            "datetime": "2027-07-06 15:56",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>supracain 2x +RVG 3x<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>ENDO :<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>13-delka 27<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>11-  delka25<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>12 -17<\/span><\/p>\n<p style=&#034;text-align: left; line-height: 1;&#034;> <\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report93",
+            "datetime": "2027-06-29 15:54",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>42,43 SDR <\/span><\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report94",
+            "datetime": "2027-06-22 15:35",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>38,24 extrakce ,supracain <\/span><\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report95",
+            "datetime": "2027-06-15 15:22",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>16,17 ,47extrakce, supracain 3x<\/span><\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      },
+      {
+        "idClient": "Client20",
+        "firstname": "Patient20",
+        "lastname": "Surname20",
+        "reports": [
+          {
+            "idMedicalReport": "Report96",
+            "datetime": "2027-07-02 07:29",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>odedvazni korunka 11 zirkon<\/span><\/p>",
+            "rn": 1,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report97",
+            "datetime": "2027-07-02 07:29",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>odedvazni korunka 11 zirkon<\/span><\/p>",
+            "rn": 2,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report98",
+            "datetime": "2027-06-15 16:41",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>11 scan<\/span><\/p>",
+            "rn": 3,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report99",
+            "datetime": "2027-06-14 17:43",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>11 Diaroot + čepy + Fuji Supracain<\/span><\/p>",
+            "rn": 4,
+            "report_count": 5
+          },
+          {
+            "idMedicalReport": "Report100",
+            "datetime": "2027-06-11 08:06",
+            "text": "<p style=&#034;text-align: left; line-height: 1;&#034;><span style=&#034;font-size: 14px; color: #000000;&#034;>11 recementace<\/span><\/p>",
+            "rn": 5,
+            "report_count": 5
+          }
+        ]
+      }
+    ]
+  }
+]
