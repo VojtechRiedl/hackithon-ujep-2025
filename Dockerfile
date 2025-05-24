@@ -11,7 +11,7 @@ ENV TZ=Europe/Prague
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 WORKDIR /code
-COPY --from=requirements-stage /tmp/requirements.txt /code/requirements.txt
+COPY --from=requirements-stage /tmp/requirements-dev.txt /code/requirements.txt
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 
 ENV PYTHONUNBUFFERED=1

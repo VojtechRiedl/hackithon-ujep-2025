@@ -1,0 +1,13 @@
+services:
+  backend:
+    build:
+      context: .
+    restart: always
+    container_name: llmapihackathon25
+    ports:
+      - "${BACKEND_PORT}:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./app:/code/app
+      - ./xdent.db:/code/xdent.db
