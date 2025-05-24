@@ -20,6 +20,7 @@ class Mqtt(BaseModel):
     port: int = Field(..., description="Port of the MQTT broker", alias="port")
     username: str = Field(..., description="Username for the MQTT broker", alias="username")
     password: str = Field(..., description="Password for the MQTT broker", alias="password")
+    off: bool = Field(..., description="Disable MQTT", alias="off")
 
 
 class Settings(BaseSettings):

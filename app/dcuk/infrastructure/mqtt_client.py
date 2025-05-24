@@ -29,6 +29,10 @@ class MqttClient:
         return self._client
 
     async def connect(self):
+        if settings.mqtt.off:
+            print("MQTT is disabled, skipping connection.")
+            return
+
         await self._client.mqtt_startup()
 
     async def publish(self, topic, payload):
@@ -38,6 +42,9 @@ class MqttClient:
         await self._client.subscribe(topic)
 
     async def disconnect(self):
+        if settings.mqtt.off:
+            print("MQTT is disabled, skipping disconnection.")
+            return
         # Disconnect from the MQTT broker
         await self._client.mqtt_shutdown()
 
