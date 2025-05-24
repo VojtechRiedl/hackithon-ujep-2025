@@ -43,3 +43,12 @@ class Report(BASE):
     client_id = Column(Integer, ForeignKey("clients.id"), nullable=False)
 
     client = relationship("Client", back_populates="reports")
+
+
+class Data(BASE):
+    __tablename__ = "data"
+
+    id = Column(Integer, primary_key=True, autoincrement=True)
+    topic = Column(String(255), nullable=False)
+    payload = Column(Text, nullable=False)
+    analysis = Column(JSON, nullable=False)

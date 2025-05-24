@@ -80,3 +80,39 @@ class AIRepository(IAIRepository):
             return self.ollama_client.prompt(prompt)
         except JSONDecodeError:
             return None
+        
+
+    def get_dcuk_response(self, topic: str, payload: dict) -> dict | None:
+        try:
+            prompt = f"""Jsi expertní analytický model specializovaný na zpracování MQTT zpráv. Tvým úkolem je analyzovat přijatou MQTT zprávu a vygenerovat výstupní strukturu ve formátu čistého validního JSON objektu dle níže uvedené šablony.
+                Vstupní data:
+                Zpráva je ve formátu:
+                {topic} - {payload}
+                kde mqtt_topic je celý název MQTT tématu a mqtt_payload je surové JSON payload tělo zprávy.
+
+                Tvůj výstup: Musíš vytvořit čistý JSON objekt podle následující struktury, bez komentářů, textových vysvětlení nebo metainformací.
+
+                {{
+                "topic": "<topic zprávy>",
+                "description": "<komplexní popis účelu nebo charakteru topicu>",
+                "units": "<jednotky měření (pokud dostupné)>",
+                "device": "<typ nebo identifikátor zařízení (pokud dostupný)>",
+                "location": "<lokace nebo oblast (pokud dostupná)>",
+                "payloadStructure": {{
+                    "název_pole_1": "typ (int, str, float, bool, null, list, dict)",
+                    "název_pole_2": "typ",
+                    "...": "..."
+                }}
+                }}
+                Důležité pokyny:
+                - Pole description formuluj jako komplexní výstižný popis účelu topicu.
+                - Pokud nelze zjistit hodnotu pole device nebo location, nech je prázdná ("").
+                - Pole payloadStructure musí přesně odpovídat struktuře klíčů a datových typů v mqtt_payload.
+                - Neuváděj žádné komentáře, vysvětlivky, formátování mimo JSON."""
+            
+
+            response = self.ollama_client.prompt(prompt)
+
+            return response
+        except JSONDecodeError:
+            return None

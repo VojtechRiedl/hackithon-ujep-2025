@@ -29,6 +29,10 @@ class Database():
     @property
     def Base(self):
         return self.base
+    
+    @property
+    def session(self):
+        return self.session_local()
 
     def get_db(self) -> Generator[Session, None, None]:
         db = self.session_local()
