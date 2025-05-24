@@ -159,6 +159,18 @@ wheels = [
 ]
 
 [[package]]
+name = "gunicorn"
+version = "23.0.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "packaging" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/34/72/9614c465dc206155d93eff0ca20d42e1e35afc533971379482de953521a4/gunicorn-23.0.0.tar.gz", hash = "sha256:f014447a0101dc57e294f6c18ca6b40227a4c90e9bdb586042628030cba004ec", size = 375031, upload-time = "2024-08-10T20:25:27.378Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/cb/7d/6dac2a6e1eba33ee43f318edbed4ff29151a49b5d37f080aad1e6469bca4/gunicorn-23.0.0-py3-none-any.whl", hash = "sha256:ec400d38950de4dfd418cff8328b2c8faed0edb0d517d3394e457c317908ca4d", size = 85029, upload-time = "2024-08-10T20:25:24.996Z" },
+]
+
+[[package]]
 name = "h11"
 version = "0.16.0"
 source = { registry = "https://pypi.org/simple" }
@@ -175,6 +187,7 @@ dependencies = [
     { name = "bs4" },
     { name = "fastapi" },
     { name = "fastapi-mqtt" },
+    { name = "gunicorn" },
     { name = "openai" },
     { name = "openapi" },
     { name = "pathlib" },
@@ -188,6 +201,7 @@ requires-dist = [
     { name = "bs4", specifier = ">=0.0.2" },
     { name = "fastapi", specifier = ">=0.115.12" },
     { name = "fastapi-mqtt", specifier = ">=2.2.0" },
+    { name = "gunicorn", specifier = ">=23.0.0" },
     { name = "openai", specifier = ">=1.82.0" },
     { name = "openapi", specifier = ">=2.0.0" },
     { name = "pathlib", specifier = ">=1.0.1" },
@@ -335,6 +349,15 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/3c/08/7f09621eb9c152f9d99d175fa24a7c1f801581585085e19e9194f2d1a454/openapi-2.0.0.tar.gz", hash = "sha256:dad6f8e2c638500113820f04763fcf6eac1fea0173340945973325a28f336264", size = 13127, upload-time = "2024-06-17T20:09:01.492Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/47/89/627043613a3bef8f750b7240dcfd10dd248c56caaf4e27e41e4a9d858742/openapi-2.0.0-py2.py3-none-any.whl", hash = "sha256:caaf621b98434e36853d0215c219e78002ed9959c9d21c9e2744ab460a6f7088", size = 12828, upload-time = "2024-06-17T20:09:00.109Z" },
+]
+
+[[package]]
+name = "packaging"
+version = "25.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/a1/d4/1fc4078c65507b51b96ca8f8c3ba19e6a61c8253c72794544580a7b6c24d/packaging-25.0.tar.gz", hash = "sha256:d443872c98d677bf60f6a1f2f8c1cb748e8fe762d2bf9d3148b5599295b0fc4f", size = 165727, upload-time = "2025-04-19T11:48:59.673Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/20/12/38679034af332785aac8774540895e234f4d07f7545804097de4b666afd8/packaging-25.0-py3-none-any.whl", hash = "sha256:29572ef2b1f17581046b3a2227d5c611fb25ec70ca1ba8554b24b0e69331a484", size = 66469, upload-time = "2025-04-19T11:48:57.875Z" },
 ]
 
 [[package]]
